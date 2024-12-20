@@ -1,0 +1,7 @@
+{
+    "peak_flops": 1e12,
+    "peak_mem_bw": 512e9,
+    "num_pe": 16,
+    "l1_cache_size": 64,
+    "l2_cache_size": 512
+}

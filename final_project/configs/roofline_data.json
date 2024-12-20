@@ -1,0 +1,6 @@
+{
+    "intensities": [10, 20, 50],
+    "performances": [1e4, 5e4, 1e5],
+    "memory_bandwidths": [10, 50, 100],
+    "peak_performance": 200000
+}

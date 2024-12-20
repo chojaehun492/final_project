@@ -1,0 +1,5 @@
+Artificial Intelligence is transforming industries.
+The quick brown fox jumps over the lazy dog.
+GPT-2 is a powerful model for natural language processing.
+Machine learning enables systems to learn from data and improve.
+This is a benchmark test for the GPT-2 small model with DNN accelerators.

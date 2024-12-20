@@ -1,0 +1,7 @@
+{
+    "_comment": "프로젝트의 주요 디렉토리 경로",
+    "logs_dir": "logs/",             
+    "output_dir": "output/",         
+    "data_dir": "data/",             
+    "config_dir": "configs/"         
+}
